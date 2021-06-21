@@ -4,7 +4,7 @@ One of the main functionalities offered by online social platforms such as Faceb
 is the recommendation of new friends.
 (king saud university college of computer and information sciences) <br>
 ```diff
--check the pdf file to have more understand
+-check the pdf file for more understanding
 
 ```
 
